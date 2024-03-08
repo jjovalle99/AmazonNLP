@@ -31,3 +31,20 @@ WHERE
   ARRAY_LENGTH(m.category.list) > 0
 ;
 ```
+
+## Results:
+
+#### Nintendo
+![r1](assets/newplot.png)
+
+#### EA
+![r2](assets/newplot1.png)
+
+#### Microsoft
+![r3](assets/newplot2.png)
+
+#### Activision
+![r4](assets/newplot3.png)
+
+#### Sony
+![r5](assets/newplot4.png)
